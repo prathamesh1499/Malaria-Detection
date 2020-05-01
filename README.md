@@ -1,3 +1,3 @@
 # Malaria-Detection
  
- Malaria Detection using CNN 
+ Malaria Detection using CNN in Tensorflow and keras 
