@@ -3,6 +3,6 @@
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-2.0+-orange.svg)
 ![Google Colab](https://img.shields.io/badge/GoogleColab-red.svg)
 
-# Malaria-Detection
+# Malaria-Prediction
  
  Malaria Detection using CNN in Tensorflow and keras 
