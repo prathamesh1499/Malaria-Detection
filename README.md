@@ -5,4 +5,4 @@
 
 # Malaria-Prediction
  
- Malaria Detection using CNN in Tensorflow and keras 
+ Malaria Prediction using CNN in Tensorflow and keras when given a blood cell image
